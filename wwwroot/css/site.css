@@ -23,6 +23,29 @@ body {
     width: 100%;
 }
 
+.leftHeader {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #0066CC;
+	font-size: 18px;
+	font-style: italic;
+}
+
+.rightHeader {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 27px;
+	color: #663333;
+	text-shadow: 0px 0px #300;
+	text-align: center;
+}
+
+.rightText {
+	line-height: 20px;
+	padding-left: 10px;
+	font-size: 16px;
+}
+
 /* QR code generator */
 #qrCode {
     margin: 15px;
